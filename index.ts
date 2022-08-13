@@ -12,4 +12,4 @@ console.log(actor);
 console.log(eventName);
 
 console.log(core.getInput("status"));
-console.log("new");
+console.log("new s");

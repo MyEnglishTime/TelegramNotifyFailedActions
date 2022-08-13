@@ -1,0 +1,6 @@
+name: "Notify Telegram Action"
+description: "Notify via Telegram!"
+author: "Alexandr Levkovskiy"
+runs:
+  using: "node12"
+  main: "index.js"
